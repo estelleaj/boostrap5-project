@@ -1,0 +1,67 @@
+
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.IMG img{
+    width: 25px;
+    height: 25px;
+}
+.main   {
+    background-color: rgb(215, 215, 250);
+}
+
+.sidebar    {
+    font-size: 12px;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+
+.sidebar-div    {
+    border-radius: 2px;
+    height: 400px;
+    padding: 10px;
+}
+
+
+.sidebar-main    {
+    border-radius: 2px;
+    height: 500px;
+    padding: 10px;
+}
+
+.sidebar-div p  {
+   font-size: small;
+}
+
+#home   {
+    background-color: rgb(215, 215, 250);
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.profiles img {
+    width: 30px;
+    height: 30px;
+}
+
+.profiles p {
+    font-size: x-small;
+}
+
+.sidebar-footer {
+    margin-top: 210px;
+}
+
+.sidebar-down   {
+    border-radius: 2px;
+    height: 400px;
+    padding: 10px;
+}
+
+.l-img  {
+    height: 130px;
+}
